@@ -1,7 +1,7 @@
 Minhas anotações
 
 
-Repositório
+**Repositório**
 
 É a pasta do projeto. 
 
